@@ -1,7 +1,7 @@
 from ai21 import AI21Client
 import streamlit as st
 
-client = AI21Client(api_key=st.secrets['api-keys']['ai21-api-key'])
+client = AI21Client(api_key="VEBrd3CdDFZH7IhGUZdtu90C17H6ZdNi")
 
 DEFAULT_MODEL = 'j2-ultra'
 
