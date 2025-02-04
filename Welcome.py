@@ -10,4 +10,4 @@ if __name__ == '__main__':
     st.title("Welcome to Stanlitoai")
     st.markdown("Experience the incredible power of large language models first-hand. With these demos, you can explore a variety of unique use cases that showcase what our sophisticated technology is truly capable of. From instant content generation to a paraphraser that can rewrite any text, the world of AI text generation will be at your fingertips." )
     st.markdown("Check out the brains behind the demos here: https://#")
-    st.markdown("Please note that this is a limited demonstration of AI21 Studio's capabilities. If you're interested in learning more, contact us at studio@ai21.com")
+    st.markdown("Please note that this is a limited demonstration of AI21 Studio's capabilities. If you're interested in learning more")
