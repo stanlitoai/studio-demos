@@ -3,7 +3,8 @@ from aiohttp import ClientSession
 from constants import client
 import streamlit as st
 
-api_key = st.secrets['api-keys']['ai21-api-key']
+#api_key = st.secrets['api-keys']['ai21-api-key']
+api_key = "VEBrd3CdDFZH7IhGUZdtu90C17H6ZdNi"
 
 endpoint = lambda model_type: f"https://api.ai21.com/studio/v1/{model_type}/complete"
 
